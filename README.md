@@ -1,6 +1,8 @@
-# Swipe Back Chrome Extension
+# Swipe Back Extension
 
 A Chrome extension that emulates Mac trackpad swipe-back behavior, allowing you to navigate back to the previous page by swiping left with two fingers on a trackpad.
+
+Annyoning Swipe Back wasn't working in Vivaldi so this seems like a good alternative.
 
 ![Swipe Back Icon](swipe-back.png)
 
