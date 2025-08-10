@@ -31,4 +31,4 @@ A Chrome extension that emulates Mac trackpad swipe-back behavior, allowing you 
 Feel free to submit issues or pull requests if you encounter bugs or have enhancements!
 
 ### License
-[MIT License] (include a license file if applicable)
+[MIT License] (LICENSE)
