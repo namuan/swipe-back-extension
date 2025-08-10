@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "Swipe Back",
+  "version": "1.0",
+  "description": "Go back to previous page by swiping left with two fingers on a trackpad. Emulates Mac trackpad behavior.",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ],
+  "icons": {
+    "16": "swipe-back-icon16.png",
+    "32": "swipe-back-icon32.png",
+    "48": "swipe-back-icon48.png",
+    "128": "swipe-back-icon128.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "swipe-back-icon16.png",
+      "32": "swipe-back-icon32.png",
+      "48": "swipe-back-icon48.png",
+      "128": "swipe-back-icon128.png"
+    }
+  }
+}
